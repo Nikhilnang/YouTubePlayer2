@@ -1,0 +1,159 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\16aac96ada1cdb66f80a70719dcfe68a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8c93b73a14d2bf18be6b791fe92fc4d7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\843ab443671f04a6be855af8f539e2b3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\9573f9deb133f8bbdc6b04d3b3e1f23c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\326f6cb5c97e7bc5646e00523ca0d5fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\85a3d7487759f095c897386a98506d3e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\73e14685b8625f7506c793d12d28edd5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\c0324c7b0b3d830ff0ad59870e504eb4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\efed84f5c666f1888f745319d428c433\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\b0075b7cf6bdb3249c811f9985f3efc1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\209710ef7a3f23d59ac6bf07f59a1903\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\8f08cf245411d901f84419a18581bb8d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\3fa9bf433a43003373c66ce6ea630af3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\ad13ea7c6ceb7528f37f44e333d8f59b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\2e3ff6e3cfd389fce1fc89baad213de6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\5069418df5e2e189991e45c3a40d18b5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\e459201358e8451823e1fff8e9432e87\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\a74e54aed4e3aba7e54fb6c160c11ff4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9d60db69ede923cc509c13e84bb30ec9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\e63e33e437c54a0805e84762e0da3539\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\cb322cf5198e555dfe6e155f233c4bf5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\c4d7b225ff385c1d99480b3e26948d97\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\111ec619d0cda632f64df207ec577602\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\98ec4ff823a0cc6798b5770fa008dced\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a36fa3a3ad506641096daf47af78184a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\97c34f897924354f0cd5f05e4574355f\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml:4:4-65
+	android:name
+		ADDED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml:4:21-63
+application
+ADDED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml:6:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8c93b73a14d2bf18be6b791fe92fc4d7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8c93b73a14d2bf18be6b791fe92fc4d7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\5069418df5e2e189991e45c3a40d18b5\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\5069418df5e2e189991e45c3a40d18b5\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\e459201358e8451823e1fff8e9432e87\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\e459201358e8451823e1fff8e9432e87\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\5069418df5e2e189991e45c3a40d18b5\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.example.nikhi.youtubeplayer.MainActivity
+ADDED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml:17:27-74
+activity#com.example.nikhi.youtubeplayer.YoutubeActivity
+ADDED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml:20:19-50
+uses-sdk
+INJECTED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\16aac96ada1cdb66f80a70719dcfe68a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\16aac96ada1cdb66f80a70719dcfe68a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8c93b73a14d2bf18be6b791fe92fc4d7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8c93b73a14d2bf18be6b791fe92fc4d7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\843ab443671f04a6be855af8f539e2b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\843ab443671f04a6be855af8f539e2b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\9573f9deb133f8bbdc6b04d3b3e1f23c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\9573f9deb133f8bbdc6b04d3b3e1f23c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\326f6cb5c97e7bc5646e00523ca0d5fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\326f6cb5c97e7bc5646e00523ca0d5fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\85a3d7487759f095c897386a98506d3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\85a3d7487759f095c897386a98506d3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\73e14685b8625f7506c793d12d28edd5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\73e14685b8625f7506c793d12d28edd5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\c0324c7b0b3d830ff0ad59870e504eb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\c0324c7b0b3d830ff0ad59870e504eb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\efed84f5c666f1888f745319d428c433\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\efed84f5c666f1888f745319d428c433\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\b0075b7cf6bdb3249c811f9985f3efc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\b0075b7cf6bdb3249c811f9985f3efc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\209710ef7a3f23d59ac6bf07f59a1903\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\209710ef7a3f23d59ac6bf07f59a1903\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\8f08cf245411d901f84419a18581bb8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\8f08cf245411d901f84419a18581bb8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\3fa9bf433a43003373c66ce6ea630af3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\3fa9bf433a43003373c66ce6ea630af3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\ad13ea7c6ceb7528f37f44e333d8f59b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\ad13ea7c6ceb7528f37f44e333d8f59b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\2e3ff6e3cfd389fce1fc89baad213de6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\2e3ff6e3cfd389fce1fc89baad213de6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\5069418df5e2e189991e45c3a40d18b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\5069418df5e2e189991e45c3a40d18b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\e459201358e8451823e1fff8e9432e87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\e459201358e8451823e1fff8e9432e87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\a74e54aed4e3aba7e54fb6c160c11ff4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\a74e54aed4e3aba7e54fb6c160c11ff4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9d60db69ede923cc509c13e84bb30ec9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9d60db69ede923cc509c13e84bb30ec9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\e63e33e437c54a0805e84762e0da3539\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\e63e33e437c54a0805e84762e0da3539\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\cb322cf5198e555dfe6e155f233c4bf5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\cb322cf5198e555dfe6e155f233c4bf5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\c4d7b225ff385c1d99480b3e26948d97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\c4d7b225ff385c1d99480b3e26948d97\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\111ec619d0cda632f64df207ec577602\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\111ec619d0cda632f64df207ec577602\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\98ec4ff823a0cc6798b5770fa008dced\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\98ec4ff823a0cc6798b5770fa008dced\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a36fa3a3ad506641096daf47af78184a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a36fa3a3ad506641096daf47af78184a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\97c34f897924354f0cd5f05e4574355f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\97c34f897924354f0cd5f05e4574355f\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nikhi\AndroidStudioProjects\YouTubePlayer2\app\src\main\AndroidManifest.xml
